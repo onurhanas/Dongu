@@ -1,0 +1,15 @@
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\Dongu.csproj.AssemblyReference.cache
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\Dongu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\Dongu.AssemblyInfoInputs.cache
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\Dongu.AssemblyInfo.cs
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\Dongu.csproj.CoreCompileInputs.cache
+C:\Users\onur3\Desktop\Dongu\bin\Debug\net6.0\Dongu.exe
+C:\Users\onur3\Desktop\Dongu\bin\Debug\net6.0\Dongu.deps.json
+C:\Users\onur3\Desktop\Dongu\bin\Debug\net6.0\Dongu.runtimeconfig.json
+C:\Users\onur3\Desktop\Dongu\bin\Debug\net6.0\Dongu.dll
+C:\Users\onur3\Desktop\Dongu\bin\Debug\net6.0\Dongu.pdb
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\Dongu.dll
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\refint\Dongu.dll
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\Dongu.pdb
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\Dongu.genruntimeconfig.cache
+C:\Users\onur3\Desktop\Dongu\obj\Debug\net6.0\ref\Dongu.dll
